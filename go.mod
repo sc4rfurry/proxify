@@ -10,7 +10,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/dsl v0.0.2
 	github.com/projectdiscovery/fastdialer v0.0.10-0.20210429154054-50371bb58a8d
-	github.com/projectdiscovery/gologger v1.1.4
+	github.com/projectdiscovery/gologger v1.1.8
 	github.com/projectdiscovery/mapsutil v0.0.1
 	github.com/projectdiscovery/tinydns v0.0.1
 	github.com/rs/xid v1.3.0
