@@ -15,5 +15,5 @@ require (
 	github.com/projectdiscovery/tinydns v0.0.1
 	github.com/rs/xid v1.3.0
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	golang.org/x/net v0.0.0-20210428140749-89ef3d95e781
+	golang.org/x/net v0.7.0
 )
